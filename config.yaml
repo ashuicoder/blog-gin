@@ -1,0 +1,4 @@
+db:
+  dbname: blog-gin
+  username: root
+  password: szy521521
